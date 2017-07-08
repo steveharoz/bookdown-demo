@@ -2,3 +2,5 @@ book_filename: "bookdown-demo"
 language:
   ui:
     chapter_name: "Chapter "
+new_session: yes
+rmd_files: ["index.Rmd", "chapters/01-intro.Rmd", "chapters/02-literature.Rmd", "chapters/03-method.Rmd", "chapters/04-application.Rmd", "chapters/05-summary.Rmd", "chapters/06-references.Rmd"]
